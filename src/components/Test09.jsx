@@ -9,6 +9,8 @@ function Test09() {
 
   return (
     // Your code here
+
+    <button onClick={() => alert("Clicked")}>click {name}</button>
   );
 }
 
